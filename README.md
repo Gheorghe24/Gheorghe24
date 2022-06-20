@@ -11,7 +11,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Backend (maybe frameworks)
 - 💬 Ask me about my country
 - 📫 How to reach me: gheorghe231101@yahoo.com
-- <!--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gheorghe24)](https://github.com/anuraghazra/github-readme-stats)
+
+ <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
