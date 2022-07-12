@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on designing my github account & my CV
+- 🔭 I’m currently working on designing my github account & looking for a Summer Internship
 - 🌱 I’m currently learning DevOps && Python
 - 👯 I’m looking to collaborate on with creative people
 - 🤔 I’m looking for help with Backend (JAVA, maybe frameworks)
