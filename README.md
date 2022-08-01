@@ -1,3 +1,5 @@
+# Grosu Gheorghe
+First year Computer Science @ Politehnica University of Bucharest
 ### Hi there 👋
 
 <!--
