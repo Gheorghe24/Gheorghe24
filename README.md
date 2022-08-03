@@ -8,7 +8,7 @@ First year Computer Science @ Politehnica University of Bucharest
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on designing my github account
-- 🌱 I’m currently learning DevOps && Python
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on with creative people
 - 🤔 I’m looking for help with Backend (JAVA, ORACLE maybe frameworks)
 - 💬 Ask me about everything
