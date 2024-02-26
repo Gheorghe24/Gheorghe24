@@ -1,5 +1,5 @@
 # Grosu Gheorghe
-Second year Computer Science @ Politehnica University of Bucharest
+Third year Computer Science @ Politehnica University of Bucharest
 
 <!--
 **Gheorghe24/Gheorghe24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
